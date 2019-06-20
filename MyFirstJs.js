@@ -152,7 +152,10 @@
                        <div class="last">
                        <img src="images/heart.png" id="heart" onmouseover="increase()" onmouseout="decrease()" width="100">
                         </div>
-        </body>
+  
+                  <div class="copy">
+                   <center><h2 ><b>Copy Right All rght Reserved</b></h2></center>
+                   </div>
 
        </body>
 
